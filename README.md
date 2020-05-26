@@ -5,3 +5,13 @@ There are two main entries in this project. One is the standard spring boot appl
 ## 3 ways to load externalized variables from application.properties
 
 ## Use RestTemplate to send http requests
+
+## Use Session to execute cqls
+
+## Exception handling
+
+## Write tests with JUnite and Mockito
+
+## Swagger as a free front end
+
+
